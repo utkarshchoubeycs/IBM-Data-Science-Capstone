@@ -1,5 +1,5 @@
 
-![Screenshot](data-science-professional-certificate.png). &nbsp; ![Screenshot](applied-data-science-capstone.png)
+![Screenshot](data-science-professional-certificate.png). &nbsp; &nbsp; &nbsp; &nbsp; ![Screenshot](applied-data-science-capstone.png)
 
 <br>
 # IBM DATA SCIENCE APPLIED CAPSTONE PROJECT  
