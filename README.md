@@ -24,10 +24,10 @@ Technologies used :-
 - IBM Cloud Watson Studio
 - Jupyter notebooks
 - Foursquare API
+- Language : Python 3
 
-Language - Python 3
-
-Libraries used :-
+Packages/Libraries used :-
+--------------------------
 
 - numpy  (to handle data in a vectorized manner)
 - pandas (library for data analysis)
