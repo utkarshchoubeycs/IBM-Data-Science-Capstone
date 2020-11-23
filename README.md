@@ -1,5 +1,6 @@
 
-![Screenshot](data-science-professional-certificate.png)
+![Screenshot](data-science-professional-certificate.png) ![Screenshot](applied-data-science-capstone.png)
+
 <br>
 # IBM DATA SCIENCE APPLIED CAPSTONE PROJECT  
 # Premium Fitness Centre Location Recommender using FourSquare API and K-Means Clustering
