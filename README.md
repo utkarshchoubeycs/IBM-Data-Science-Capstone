@@ -18,3 +18,24 @@ The problem at hand is to find an optimal location for a fitness centre. Specifi
 Check out this Jupyter Notebook to solve this problem using Data Science. 👇🏻👇🏻
 
 https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/c5147560-ca2a-4726-925f-5aea7cd99c22/view?access_token=eb5c6b30f99de3504a9a3f8b628a27755c161831a164267f9e002c869f5524b6
+
+Technologies used :-
+
+- IBM Cloud Watson Studio
+- Jupyter notebooks
+- Foursquare API
+
+Language - Python 3
+
+Libraries used :-
+
+- numpy  (to handle data in a vectorized manner)
+- pandas (library for data analysis)
+- json  (to handle JSON files)
+- Nominatim(geopy.geocoders)  (to convert an address into latitude and longitude values)
+- requests (to handle requests)
+- json_normalize(pandas.io.json) (to tranform JSON file into a pandas dataframe)
+- Matplotlib and associated plotting modules (for visualisation)
+- seaborn (for visualisation)
+- KMeans(sklearn.cluster) (for K-means clusteing)
+- folium  (for Map visualisation)
