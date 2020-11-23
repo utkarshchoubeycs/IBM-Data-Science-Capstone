@@ -29,16 +29,16 @@ https://shorturl.at/kuIO8 or https://jp-tok.dataplatform.cloud.ibm.com/analytics
 
 ### Packages/Libraries used :-                           
 
-- numpy                                           (to handle data in a vectorized manner)
-- pandas                                          (for data analysis)
-- json                                            (to handle JSON files)
-- Nominatim(geopy.geocoders)                      (to convert an address into latitude and longitude values)
-- requests                                        (to handle requests)
-- json_normalize(pandas.io.json)                  (to tranform JSON file into a pandas dataframe)
-- Matplotlib and associated plotting modules      (for visualisation)
-- seaborn                                         (for visualisation)
-- KMeans(sklearn.cluster)                         (for K-means clusteing)
-- folium                                          (for Map visualisation)
+- numpy -                                        (to handle data in a vectorized manner)
+- pandas -                                         (for data analysis)
+- json -                                          (to handle JSON files)
+- Nominatim(geopy.geocoders) -                     (to convert an address into latitude and longitude values)
+- requests -                                       (to handle requests)
+- json_normalize(pandas.io.json) -                (to tranform JSON file into a pandas dataframe)
+- Matplotlib and associated plotting modules -     (for visualisation)
+- seaborn -                                        (for visualisation)
+- KMeans(sklearn.cluster) -                        (for K-means clusteing)
+- folium -                                         (for Map visualisation)
 
 
 #### The dataset used in this project is taken from https://kaggle.com
