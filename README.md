@@ -3,7 +3,7 @@
 
 <br>
 
-<h1> <center> IBM DATA SCIENCE APPLIED CAPSTONE PROJECT  </center> </h1>
+<h1 align = "center"> <center> IBM DATA SCIENCE APPLIED CAPSTONE PROJECT  </center> </h1>
 
 <h2>Fitness Centre Location Recommender using FourSquare API and K-Means Clustering </h2>
 
