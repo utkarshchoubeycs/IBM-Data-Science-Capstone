@@ -1,4 +1,4 @@
-![Screenshot](data-science-professional-certificate.png)
+<center>![Screenshot](data-science-professional-certificate.png)</center>
 <br>
 # Premium Fitness Centre Location Recommender using FourSquare API and K-Means Clustering
 
