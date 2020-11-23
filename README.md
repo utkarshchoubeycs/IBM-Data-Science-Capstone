@@ -1,4 +1,4 @@
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; ![https://www.youracclaim.com/badges/f1a332b4-6cd8-442f-9311-c0d70e8ba018/public_url](images/data-science-professional-certificate.png)  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ![Screenshot](images/applied-data-science-capstone.png)
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; ![https://www.youracclaim.com/badges/f1a332b4-6cd8-442f-9311-c0d70e8ba018/public_url](images/data-science-professional-certificate.png)  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ![Screenshot](images/applied-data-science-capstone.png)
 
 <br>
 
