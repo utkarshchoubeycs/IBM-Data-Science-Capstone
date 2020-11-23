@@ -2,7 +2,8 @@
 <br>
 
 
-&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <a href = "https://www.youracclaim.com/badges/f1a332b4-6cd8-442f-9311-c0d70e8ba018/public_url" >![Screenshot](images/data-science-professional-certificate.png) </a>  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href = "https://www.youracclaim.com/badges/a4c7ef37-af2c-4532-a1d0-0795f8b79ddc/public_url">![Screenshot](images/applied-data-science-capstone.png)</a>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+<a href = "https://www.youracclaim.com/badges/f1a332b4-6cd8-442f-9311-c0d70e8ba018/public_url" >![Screenshot](images/data-science-professional-certificate.png) </a>  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href = "https://www.youracclaim.com/badges/a4c7ef37-af2c-4532-a1d0-0795f8b79ddc/public_url">![Screenshot](images/applied-data-science-capstone.png)</a>
 
 <br>
 
