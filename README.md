@@ -19,8 +19,6 @@
 
 #### Check out this Jupyter Notebook to solve this problem and understand different aspects of DATA SCIENCE.
 
-👉🏻https://shorturl.at/kuIO8
-or
 👉🏻https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/c5147560-ca2a-4726-925f-5aea7cd99c22/view?access_token=eb5c6b30f99de3504a9a3f8b628a27755c161831a164267f9e002c869f5524b6
 
 #### Technologies used :-
